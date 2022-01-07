@@ -38,6 +38,9 @@ let gitInitDefinition = 'git init is initiallizing an local repo on your machine
 
 //CODE HERE
 
+let gitCloneDefinition = 'git clone is used when you are cloning a GLOBAL repo to your LOCAL machine, so you can work on the code without disrupting the actual code being ran in real time. it would be git clone REPO_URL.'
+
+
 //////////////////PROBLEM 5////////////////////
 /*
     Create a variable called 'gitStatusDefinition'.  
