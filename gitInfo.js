@@ -60,7 +60,9 @@ let gitStatusDefinition = 'Tells the user about the current repo they are in.'
 */
 
 //CODE HERE
+let gitAddDefinition = 'git add tells the terminal which file/directory will be tracked.'
 
+let gitAddCode = 'git add .'
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
