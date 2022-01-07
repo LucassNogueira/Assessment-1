@@ -16,7 +16,8 @@ const faveNum = 13
 
 //CODE HERE
 let lovesCode = true
-console.log(lovesCode);
+// console.log(lovesCode);
+
 //////////////////PROBLEM 4////////////////////
 /*
   Write an if-statement that checks if the faveNum variable is 
@@ -25,6 +26,12 @@ console.log(lovesCode);
 */
 
 //CODE HERE
+
+if (faveNum === 13){
+  console.log('Lucky 13!');
+} else {
+  console.log('Not lucky 13');
+}
 
 //////////////////PROBLEM 5////////////////////
 /*
