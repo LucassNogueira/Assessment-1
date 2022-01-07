@@ -10,6 +10,7 @@
 */
 
 //CODE HERE
+let gitDefinition = 'Git is a software that runs through your terminal/machine so that you can save snapshots LOCALLY and then push them to GitHub where code can be accessed globablly(with permission).'
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -18,6 +19,7 @@
 */
 
 //CODE HERE
+let gitHubDefinition = 'Github is a website where you can create global repos so that your code can be accessed by anyone globably if you give them permission. some code can be foud public there, but its a website you use to publish your code essentially.'
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -26,6 +28,7 @@
 */
 
 //CODE HERE
+let gitInitDefinition = 'git init is initiallizing an local repo on your machine, so that you can match it with the global repo you make on github, when you initialize your repo you must add files/folders you want to be pushed up to the repo first. with git add XX.'
 
 //////////////////PROBLEM 4////////////////////
 /*
