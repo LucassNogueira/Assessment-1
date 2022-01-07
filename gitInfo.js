@@ -48,6 +48,7 @@ let gitCloneDefinition = 'git clone is used when you are cloning a GLOBAL repo t
 */
 
 //CODE HERE
+let gitStatusDefinition = 'Tells the user about the current repo they are in.'
 
 //////////////////PROBLEM 6////////////////////
 /*
