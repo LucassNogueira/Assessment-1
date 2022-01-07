@@ -73,6 +73,9 @@ let gitAddCode = 'git add .'
 */
 
 //CODE HERE
+let gitCommitDefinition = 'git commit is telling your machine to take a snapshot of what you have done so far, you use this incase you majorly break your code you can revert to a previous snapshot that isnt broken without having to loose too much. obviously that also depends on how often you commit!'
+
+let gitCommitCode = 'git commit -am "initial commit"'
 
 
 //////////////////PROBLEM 8////////////////////
