@@ -75,7 +75,7 @@ let gitAddCode = 'git add .'
 //CODE HERE
 let gitCommitDefinition = 'git commit is telling your machine to take a snapshot of what you have done so far, you use this incase you majorly break your code you can revert to a previous snapshot that isnt broken without having to loose too much. obviously that also depends on how often you commit!'
 
-let gitCommitCode = 'git commit -am "initial commit"'
+let gitCommitCode = 'git commit -am "initial commit" i use am flag so i do not have to add then commit'
 
 
 //////////////////PROBLEM 8////////////////////
@@ -85,3 +85,5 @@ let gitCommitCode = 'git commit -am "initial commit"'
 */
 
 //CODE HERE
+
+let gitPushDefinition = 'git push does exactly what it states, it pushes your LOCAL code to the GLOBAL repo on github (or other webservices but we use github in this case).'
