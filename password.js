@@ -7,16 +7,17 @@ const reader = readline.createInterface({
 
 console.log('Welcome to the password validation tool!');
 
-        reader.question("Please validate your password!", function(answer) {
+        reader.question("Please validate your password!", function(answer){
         if (answer.length >= 10) {
           console.log(`That password long enough, great!`);
         } else {
-          console.log(`TThat password is only ${answer.length} charaters long, please try again.`);
+          console.log(`That password is only ${answer.length} charaters long, please try again.`);
         }
-      
         reader.close();
     
     
     });
     
-  
+
+
+
