@@ -9,13 +9,14 @@ const myName = 'Lucas'
 
 //CODE HERE
 const faveNum = 13
-console.log(faveNum);
+// console.log(faveNum);
 
 //////////////////PROBLEM 3////////////////////
 /* Create a variable called 'lovesCode' and assign it a boolean value. */
 
 //CODE HERE
-
+let lovesCode = true
+console.log(lovesCode);
 //////////////////PROBLEM 4////////////////////
 /*
   Write an if-statement that checks if the faveNum variable is 
